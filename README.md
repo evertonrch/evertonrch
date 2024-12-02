@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Desenvolvedor Backend com foco em tecnologias Java e NodeJS<br>- Atualmente atuo como Desenvolvedor Full Stack no Ministério Público do Distrito Federal e Territórios (MPDFT)</p>
+<p align="left">- Desenvolvedor Backend<br>- Atualmente atuo como Desenvolvedor Full Stack no Ministério Público do Distrito Federal e Territórios (MPDFT)</p>
 
 ###
 
