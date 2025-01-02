@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Desenvolvedor Backend<br>- Atualmente atuo como Desenvolvedor Full Stack no Ministério Público do Distrito Federal e Territórios (MPDFT)</p>
+<p align="left">- Desenvolvedor Backend<br>- Atualmente trabalho como Desenvolvedor Full Stack no Ministério Público do Distrito Federal e Territórios (MPDFT)</p>
 
 ###
 
