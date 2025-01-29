@@ -24,8 +24,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="35" alt="kotlin logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="35" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
