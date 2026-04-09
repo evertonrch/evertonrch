@@ -33,7 +33,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evertonrch&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evertonrch&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph" /> <br> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=evertonrch&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=false" height="250" alt="activity-graph graph"  />
 </div>
 
