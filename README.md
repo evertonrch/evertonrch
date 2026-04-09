@@ -1,22 +1,3 @@
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">- Desenvolvedor Backend<br>- Atualmente trabalho como Desenvolvedor Full Stack no Ministério Público do Distrito Federal e Territórios (MPDFT)</p>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/everton-rocha-monteiro/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/everton.rocha.92317/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="facebook logo"  />
-  </a>
-</div>
-
-###
-
 <h2 align="left">Technologies</h2>
 
 ###
@@ -59,5 +40,17 @@
 ###
 
 <h2 align="left"></h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/everton-rocha-monteiro/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
+  </a>
+  
+  <a href="https://www.facebook.com/everton.rocha.92317/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="facebook logo"  />
+  </a>
+</div>
 
 ###
