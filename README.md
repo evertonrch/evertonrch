@@ -11,6 +11,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="nodejs logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="35" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
